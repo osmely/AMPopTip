@@ -2,6 +2,7 @@
   <img width="420" src="assets/logo.png"/>
 </p>
 
+
 ![Test suite](https://github.com/andreamazz/AMPopTip/workflows/Test%20suite/badge.svg)
 [![CocoaPods](https://cocoapod-badges.herokuapp.com/v/AMPopTip/badge.svg)](http://cocoapods.org/?q=ampoptip)
 [![Docs](https://img.shields.io/cocoapods/metrics/doc-percent/AMPopTip.svg)](http://cocoadocs.org/docsets/AMPopTip)
